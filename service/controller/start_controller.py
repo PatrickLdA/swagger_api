@@ -1,5 +1,5 @@
 from flask import Response
-from flask_restplus import Resource
+from flask_restx import Resource
 
 from service.restplus import api
 

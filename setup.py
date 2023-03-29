@@ -19,10 +19,10 @@ integration_test_requirements = [
     'pandas'
 ]
 run_requirements = [
-    'flask==1.1.2',
-    'Flask-Cors==3.0.7',
-    'flask-restplus==0.13.0',
-    'werkzeug==0.16.1',
+    'flask==2.2.2',
+    'Flask-Cors==3.0.9',
+    'flask-restx==1.1.0',
+    'werkzeug==2.2.3',
     'gunicorn==20.0.4',
     'requests==2.22.0',
     'loguru==0.4.1',

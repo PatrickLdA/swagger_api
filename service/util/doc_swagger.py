@@ -1,4 +1,4 @@
-from flask_restplus import fields
+from flask_restx import fields
 from service.restplus import api
 
 INPUT_MAIN_SERVICE = api.model(

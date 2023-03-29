@@ -1,5 +1,5 @@
 from flask import request
-from flask_restplus import Resource
+from flask_restx import Resource
 from loguru import logger
 
 from service.service.main_service import SentimentosService
